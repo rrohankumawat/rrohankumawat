@@ -54,7 +54,7 @@ I'm **Rohan Kumawat**, an enthusiastic **Full Stack ASP.NET Core** developer pas
 ---
 
 ## 🌐 Let's Connect
-- **[LinkedIn](https://www.linkedin.com/in/rohan-kumawat-7b4a68247/):** Let’s network and collaborate!
+- **[LinkedIn](https://www.linkedin.com/in/rohankumawat/):** Let’s network and collaborate!
 - **[Portfolio](https://rrohankumawat.github.io/portfolio):** See my complete portfolio.
 - **[Email](mailto:rohankumawat.pinkcity@gmail.com):** Feel free to reach out!
 
