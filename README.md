@@ -48,8 +48,8 @@ I'm **Rohan Kumawat**, an enthusiastic **Full Stack ASP.NET Core** developer pas
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanpin1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpin1&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrohankumawat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrohankumawat&layout=compact&theme=radical)
 
 ---
 
