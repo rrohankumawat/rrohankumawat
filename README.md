@@ -40,19 +40,6 @@ I'm **Rohan Kumawat**, an enthusiastic **Full Stack ASP.NET Core** developer pas
 
 ---
 
-## 🚀 Featured Projects
-- **[Posh Rides](https://github.com/rohanpin1/PoshRides):** A ride-hailing app built with ASP.NET Core and Entity Framework.
-- **[E-Commerce API](https://github.com/rohanpin1/ECommerceAPI):** A fully-featured REST API for an e-commerce platform using .NET 6.
-- **[Blog Management System](https://github.com/rohanpin1/BlogManagement):** A CMS for managing blog posts, categories, and users, built with ASP.NET Core MVC.
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrohankumawat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrohankumawat&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect
 - **[LinkedIn](https://www.linkedin.com/in/rohankumawat/):** Let’s network and collaborate!
 - **[Portfolio](https://rrohankumawat.github.io/portfolio):** See my complete portfolio.
