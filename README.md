@@ -1,5 +1,4 @@
 # Hi there! 👋
-
 I'm **Rohan Kumawat**, an enthusiastic **Full Stack ASP.NET Core** developer passionate about building scalable and efficient web applications. With a knack for problem-solving and a love for clean code, I enjoy turning ideas into reality using the .NET ecosystem. 🚀
 
 ---
